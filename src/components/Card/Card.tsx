@@ -14,7 +14,7 @@ const Card = ({ data }: { data: LocationData }) => {
       <img
         src={data?.image}
         alt="image"
-        className="object-cover w-full h-[30vh] rounded-t-md"
+        className="object-cover w-full h-[40vh] rounded-t-md object-top"
       />
       <div className="p-4 flex flex-col gap-5">
         <div className="flex flex-col gap-1">

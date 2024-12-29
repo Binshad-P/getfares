@@ -64,7 +64,7 @@ export const ToursData = [
       "Explore ancient traditions and modern innovations in this educational journey to China.",
     detail_description:
       "Discover the Great Wall of China, Forbidden City, and Temple of Heaven on this educational tour to Beijing. Learn about Chinese history, culture, and advancements in science and technology. The tour includes interactive activities, cultural performances, and guided visits to historical sites. Students will gain valuable insights into one of the world's oldest civilizations.",
-    image: destination_img_2,
+    image: destination_img_1,
     category: "International School Tours",
   },
   {
@@ -99,7 +99,7 @@ export const ToursData = [
       "A hands-on learning experience about agriculture and sustainability.",
     detail_description:
       "This field trip offers an immersive experience in Iowa, USA, where students can learn about modern farming techniques, sustainability practices, and the importance of agriculture. Visit working farms, participate in agricultural activities, and learn about the science behind crop production and livestock management. This trip is ideal for schools focusing on STEM and environmental studies.",
-    image: destination_img_1,
+    image:  destination_img_2,
     category: "School Field Tours",
   },
   {
