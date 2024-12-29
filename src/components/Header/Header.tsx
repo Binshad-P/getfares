@@ -15,7 +15,7 @@ const Header = () => {
         <Link to="/international-school-trips">
         <p className=" hover:text-gray-500 duration-300">International School Trips</p>
         </Link>
-        <a href="#Field_Trips" className=" hover:text-gray-500 duration-300">Field Trips</a>
+        <a href="#Field_Trips" className=" hover:text-gray-500 duration-300"> Field Trips</a>
         <a href="#Heritage_Trips" className=" hover:text-gray-500 duration-300">Heritage Trips</a>
      
       </div>
