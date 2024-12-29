@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import logo from '../../assets/logo.png'
 const Footer = () => {
   return (
-    <footer className="bg-[#0e214b] text-white py-10 px-[5rem]">
+    <div className="bg-[#0e214b] text-white py-10 px-[5rem]">
       <div className=" grid grid-cols-4 gap-10">
         <div>
           <img src={logo} alt="logo" className="w-[15rem] h-[60px] object-cover"/>
@@ -82,7 +82,7 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} Your Tour Company. All rights reserved.
         </p>
       </div>
-    </footer>
+    </div>
   );
 };
 
