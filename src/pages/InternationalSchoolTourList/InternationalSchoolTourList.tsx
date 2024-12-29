@@ -1,8 +1,8 @@
-import InternationalSchoolTours from '../../containers/Home/InternationalSchoolTours'
+import InternationalSchoolTrips from '../../containers/Home/InternationalSchoolTrips'
 
 const InternationalSchoolTourList = () => {
   return (
-    <div><InternationalSchoolTours/></div>
+    <div><InternationalSchoolTrips/></div>
   )
 }
 

@@ -1,18 +1,18 @@
 import React, { Suspense } from 'react';
 
 const HomeHero = React.lazy(() => import("../../containers/Home/HomeHero"));
-const InternationalSchoolTours = React.lazy(() => import("../../containers/Home/InternationalSchoolTours"));
-const SchoolFieldTours = React.lazy(() => import("../../containers/Home/SchoolFieldTours"));
-const EducationalTours = React.lazy(() => import("../../containers/Home/EducationalTours"));
+const InternationalSchoolTrips = React.lazy(() => import("../../containers/Home/InternationalSchoolTrips"));
+const FieldTrips = React.lazy(() => import("../../containers/Home/FieldTrips"));
+const EducationalTrips = React.lazy(() => import("../../containers/Home/HeritageTrips"));
 
 const Home = () => {
   return (
     <div>
       <Suspense fallback={<div>Loading...</div>}>
         <HomeHero />
-        <InternationalSchoolTours />
-        <SchoolFieldTours />
-        <EducationalTours />
+        <InternationalSchoolTrips />
+        <FieldTrips />
+        <EducationalTrips />
       </Suspense>
     </div>
   );

@@ -19,7 +19,7 @@ export const ToursData = [
     detail_description:
       "This tour takes you through the historical wonders of Rome, Italy. Visit iconic landmarks like the Colosseum, Roman Forum, and Pantheon while learning about the rich history and culture of the Roman Empire. Perfect for students and history enthusiasts, the tour includes guided visits, interactive activities, and opportunities to learn about ancient Roman civilization. Enjoy authentic Italian cuisine and soak in the vibrant culture of this timeless city.",
     image: destination_img_4,
-    category: "Educational Tours",
+    category: "Heritage Trips",
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ export const ToursData = [
     detail_description:
       "This program offers an immersive experience in Tokyo, Japan, where students can participate in cultural exchange activities, including tea ceremonies, calligraphy, and traditional dance. Explore historic temples, bustling markets, and modern attractions while learning about Japan's unique blend of tradition and innovation. This tour fosters understanding and appreciation of different cultures, making it an enriching experience for students.",
     image: destination_img_6,
-    category: "Educational Tours",
+    category: "Heritage Trips",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ export const ToursData = [
     detail_description:
       "This educational tour takes you to Yellowstone National Park, where students can explore geysers, hot springs, and diverse wildlife. Engage in hands-on science activities, including geology and ecology workshops, led by experts. Learn about conservation efforts and the importance of protecting natural habitats. This tour is perfect for schools looking to combine education with outdoor adventure, providing a memorable experience for students.",
     image: destination_img_9,
-    category: "Educational Tours",
+    category: "Heritage Trips",
   },
 
   // International School Tours
@@ -54,7 +54,7 @@ export const ToursData = [
     detail_description:
       "This tour provides an unforgettable journey through Paris, France. Visit landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral while learning about Europe's cultural heritage. Engage in workshops on art history and architecture, tailored for school groups. Experience the charm of Parisian streets, cuisine, and history, making this tour both educational and exciting.",
     image: destination_img_8,
-    category: "International School Tours",
+    category: "International School Trips",
   },
   {
     id: 5,
@@ -65,7 +65,7 @@ export const ToursData = [
     detail_description:
       "Discover the Great Wall of China, Forbidden City, and Temple of Heaven on this educational tour to Beijing. Learn about Chinese history, culture, and advancements in science and technology. The tour includes interactive activities, cultural performances, and guided visits to historical sites. Students will gain valuable insights into one of the world's oldest civilizations.",
     image: destination_img_1,
-    category: "International School Tours",
+    category: "International School Trips",
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ export const ToursData = [
     detail_description:
       "Experience the rich artistic heritage of Florence, Italy. Visit renowned art galleries, historic churches, and museums showcasing masterpieces from the Renaissance period. Participate in art workshops and guided tours that delve into the lives and works of famous artists like Michelangelo and Leonardo da Vinci.",
     image: destination_img_5,
-    category: "International School Tours",
+    category: "International School Trips",
   },
 
   // School Field Tours
@@ -89,7 +89,7 @@ export const ToursData = [
     detail_description:
       "This trip takes students to Silicon Valley, California, where they can visit leading tech companies, innovation centers, and science museums. Learn about advancements in AI, robotics, and renewable energy through interactive exhibits and workshops. The trip is designed to inspire students and give them a glimpse into the future of technology.",
     image: destination_img_3,
-    category: "School Field Tours",
+    category: "Field Trips",
   },
   {
     id: 8,
@@ -100,7 +100,7 @@ export const ToursData = [
     detail_description:
       "This field trip offers an immersive experience in Iowa, USA, where students can learn about modern farming techniques, sustainability practices, and the importance of agriculture. Visit working farms, participate in agricultural activities, and learn about the science behind crop production and livestock management. This trip is ideal for schools focusing on STEM and environmental studies.",
     image:  destination_img_2,
-    category: "School Field Tours",
+    category: "Field Trips",
   },
   {
     id: 9,
@@ -111,6 +111,6 @@ export const ToursData = [
     detail_description:
       "This workshop takes students to the Everglades National Park in Florida, where they can learn about ecosystems, wetlands, and conservation efforts. The trip includes interactive sessions, wildlife observations, and outdoor activities designed to educate and inspire.",
     image: destination_img_7,
-    category: "School Field Tours",
+    category: "Field Trips",
   },
 ];

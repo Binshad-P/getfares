@@ -9,7 +9,7 @@ const LayoutRoutes = () => {
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/international-school-tours" element={<InternationalSchoolTourList />} />
+          <Route path="/international-school-trips" element={<InternationalSchoolTourList />} />
           <Route path="/destination/:id" element={<DestinationDetail />} />
         </Routes>
       </Layout>
