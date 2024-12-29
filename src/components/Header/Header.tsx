@@ -7,11 +7,14 @@ const Header = () => {
         <Link to="/">Logo </Link>
       </div>
 
-      <div className="flex gap-6 text-lg">
+      <div className="flex gap-10 font-medium text-lg">
         <Link to="/">
-          <p className=" hover:text-gray-200 ">Home</p>
+          <p className=" hover:text-gray-500 duration-300">Home</p>
         </Link>
-        <p className=" hover:text-gray-200">Resources</p>
+        <a href="#International_School_Tours" className=" hover:text-gray-500 duration-300">International School Tours</a>
+        <a href="#School_Field_Tours" className=" hover:text-gray-500 duration-300">School Field Tours</a>
+        <a href="#Educational_Tours" className=" hover:text-gray-500 duration-300">Educational Tours</a>
+     
       </div>
     </div>
   );
